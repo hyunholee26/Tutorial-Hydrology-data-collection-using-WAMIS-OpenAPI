@@ -1,4 +1,5 @@
-# [Tutorial] WAMIS OpenAPI를 이용한 수문데이터 수집
+# [Tutorial] WAMIS OpenAPI를 이용한 수문데이터 수집 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hyunholee26/Tutorial-Hydrology-data-collection-using-WAMIS-OpenAPI/HEAD)
+
 
 ## 1. 국가수자원관리종합정보시스템(WAMIS)
  - 환경부 산하 한강홍수통제소에서 관리중인 시스템으로 환경부, 기상청, 한국수자원공사, 한국농어촌공사 등을 통해 수집된 **강수량, 수위, 기상 등 수문데이터를 통합하여 OpenAPI 방식으로 제공**

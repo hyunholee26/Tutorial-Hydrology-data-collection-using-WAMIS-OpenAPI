@@ -4,5 +4,5 @@ channels:
 dependencies:
   - numpy
   - pandas
-  - urllib
+  - urllib3
   - bs4

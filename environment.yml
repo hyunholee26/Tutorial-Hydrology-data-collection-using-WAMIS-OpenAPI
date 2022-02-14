@@ -1,0 +1,8 @@
+name: tutorial-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - urllib
+  - bs4

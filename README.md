@@ -1,4 +1,5 @@
-# [Tutorial] WAMIS OpenAPI를 이용한 수문데이터 수집 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hyunholee26/Tutorial-Hydrology-data-collection-using-WAMIS-OpenAPI/HEAD)
+# [Tutorial] WAMIS OpenAPI를 이용한 수문데이터 수집 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hyunholee26/Tutorial-Hydrology-data-collection-using-WAMIS-OpenAPI/HEAD)
 
 
 ## 1. 국가수자원관리종합정보시스템(WAMIS)
